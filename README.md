@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Jason, a Belgian guy currently based in Montreal.  
+I’m Jason, a Belgian guy currently based in Montreal. 🇧🇪🇨🇦  
 I’m a Software Engineer passionate about crafting **pixels**. 👾
 
 <!--
