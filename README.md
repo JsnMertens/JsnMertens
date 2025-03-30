@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I’m Jason, a Belgian guy currently based in Montreal.
-I’m a Software Developer passionate about creating pixels.
+I’m Jason, a Belgian guy currently based in Montreal.  
+I’m a Software Engineer passionate about crafting **pixels**. 👾
 
 <!--
 **JsnMertens/JsnMertens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
